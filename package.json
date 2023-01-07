@@ -1,0 +1,15 @@
+{
+  "name": "nessa",
+  "version": "0.0.1",
+  "description": "Dirty concept of pure js REST API framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anar Latifov <e.latifov.anar@gmail.com>",
+  "license": "ISC"
+}
